@@ -5,7 +5,7 @@
 > **Interpretable Mechanistic Representations for Glycemic Control**\
 > Ke Alexander Wang, Emily B. Fox \
 > Published at the *Machine Learning for Healthcare Symposium (ML4H), 2023*\
-> [[Proceedings]](https://proceedings.mlr.press/v225/wang23a.html)][[arXiv version](https://arxiv.org/abs/2312.03344)][[Poster](./assets/poster.pdf)]
+> [[Proceedings](https://proceedings.mlr.press/v225/wang23a.html)][[arXiv version](https://arxiv.org/abs/2312.03344)][[Poster](./assets/poster.pdf)]
 
 ## About
 
