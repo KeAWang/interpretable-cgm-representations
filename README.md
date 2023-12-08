@@ -5,11 +5,11 @@
 > **Interpretable Mechanistic Representations for Glycemic Control**\
 > Ke Alexander Wang, Emily B. Fox \
 > Published at *Machine Learning for Healthcare (ML4H), 2023*\
-> Paper: [https://arxiv.org/abs/2312.03344](https://arxiv.org/abs/2312.03344)
+> [[Paper](https://arxiv.org/abs/2312.03344)][[Poster](./assets/poster.pdf)]
 
 ## About
 
-Our Hybrid VAE is a new machine learning model that can embed post-meal glucose responses in an interpretable space, using a combination of unsupervised learning and hybrid modeling.
+Our Hybrid VAE is a new machine learning model that can embed post-meal glucose responses in an interpretable space, using a combination of unsupervised learning and hybrid modeling. Given post-meal CGM data and optional meal logs and demographics data, we can summarize their glycemic control in our physiologically-meaningful latent space.
 
 ### For clinicians and biomedical engineers
 Our model for the first time allows us to characterize Type-2 diabetes heterogeneity through various traditional metrics (glucose appearance time, glucose effectiveness, insulin sensitivity, etc.), as defined by *Bergman's minimal model*, using **only CGM and meal log data and no diagnosis information**. Each point in our embedding space represents a meal eaten by an individual. In the figure above, red represents T2D and blue represents pre-diabetes.
