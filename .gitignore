@@ -1,3 +1,7 @@
+per-meal-data
+.DS_Store
+
+# Python gitignore
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
